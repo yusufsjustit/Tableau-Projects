@@ -79,5 +79,11 @@ For example:
 
 ---
 
-## 📸 Screenshots  
+## 📸 Employment Dashboard  
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/6bcae5ee-63db-40f7-ab75-4569d61dcf36" />
+
+## 📸 Health Dashboard  
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/8657ff5c-da4c-47c1-9f68-0402c38208a9" />
+
+## 📸 Spotify Dashboard  
+
