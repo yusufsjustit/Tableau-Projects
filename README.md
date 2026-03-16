@@ -80,12 +80,4 @@ For example:
 ---
 
 ## 📸 Screenshots  
-_Add screenshots of your dashboards, charts, and maps here._
-
----
-
-## ✨ About the Author  
-**Yusuf Satilmis**  
-Trainer – Data Analyst  
-Specialising in helping learners develop strong practical skills in Tableau, Excel, and real‑world data analysis.
-
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/6bcae5ee-63db-40f7-ab75-4569d61dcf36" />
