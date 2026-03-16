@@ -80,9 +80,13 @@ For example:
 ---
 
 ## 📸 Employment Dashboard  
+[Link to My Dashboard](https://public.tableau.com/views/GBEmploymentDashboard_17706529670860/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/6bcae5ee-63db-40f7-ab75-4569d61dcf36" />
 
 ## 📸 Health Dashboard  
+[Link to My Dashboard](https://public.tableau.com/app/profile/yusufdata/viz/HealthDataset_17604405685560/Dashboard1)
+
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/8657ff5c-da4c-47c1-9f68-0402c38208a9" />
 
 ## 📸 Spotify Dashboard  
